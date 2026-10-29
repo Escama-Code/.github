@@ -32,7 +32,7 @@ A **Escama Code** é uma organização voltada para a criação de soluções te
 ## 📊 Estatísticas da Organização
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Escama-Code&layout=compact&theme=dark&hide_border=true" alt="Linguagens Mais Utilizadas" />
+  <img src="https://github-readme-stats-8p95te4g1-italovinicius0105-2345s-projects.vercel.app/api/top-langs/?username=Escama-Code&layout=compact&theme=dark&hide_border=true" alt="Linguagens Mais Utilizadas" />
 </div>
 
 ---
